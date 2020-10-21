@@ -1,4 +1,4 @@
-Save your level as [Your Last Name]2DLevel (i.e. bethancourt2DLevel) and upload to Github. In your GitHub repo README write up a short statement outlining your level's Design Goals. 
+Single Scene: https://github.com/CassidyJensen/Jensen2DLevelScene
 
 # Jensen2DLevel
 
